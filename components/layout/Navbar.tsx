@@ -24,7 +24,7 @@ const Navbar = () => {
     },
     {
       label: "GitHub",
-      href: "https://github.com/rudrakshSoni/",
+      href: "https://github.com/ASR222/AQI_project",
       icon: GitBranch, 
       external: true,
     },
